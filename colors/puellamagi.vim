@@ -111,12 +111,12 @@ hi TabLineFill     guifg=#1B1D1E guibg=#1B1D1E
 hi TabLine         guibg=#1B1D1E guifg=#808080 gui=none
 
 hi Normal          guifg=#F8F8F2 guibg=#3c2c38
-hi Comment         guifg=#7E8E91
-hi CursorLine                    guibg=#293739
+hi Comment         guifg=#959595
+hi CursorLine      guifg=#f594ae guibg=#fefeel
 hi CursorLineNr    guifg=#e78155               gui=none
 hi CursorColumn                  guibg=#293739
 hi ColorColumn                   guibg=#232526
-hi LineNr          guifg=#959595 guibg=#232526
+hi LineNr          guifg=#e2e2e2 guibg=#959595
 hi NonText         guifg=#959595
 hi SpecialKey      guifg=#959595
 
