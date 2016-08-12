@@ -114,16 +114,16 @@ hi Normal          guifg=#F8F8F2 guibg=#3c2c38
 hi Comment         guifg=#959595
 hi CursorLine      guifg=#f594ae guibg=#fefeel
 hi CursorLineNr    guifg=#e78155               gui=none
-hi CursorColumn                  guibg=#293739
-hi ColorColumn                   guibg=#232526
-hi LineNr          guifg=#e2e2e2 guibg=#959595
+hi CursorColumn                  guibg=#fefeel
+hi ColorColumn                   guibg=#c985c7
+hi LineNr          guifg=#e2e2e2 guibg=#3d333b
 hi NonText         guifg=#959595
 hi SpecialKey      guifg=#959595
 
 " PUELLAMAGI HEX     16/8 TERMCOL  XTERM/HEX
 " ---------  ------- ---- -------  ----------
 " base03     #c985c7 8/4  brblack  234 #c985c7
-" base02     #3c2c38  0/4 black    235 #3c2c38
+" base02     #3d2c38  0/4 black    235 #3c2c38
 " base01     #f594ae 10/7 brgreen  240 #f594ae
 " base00     #fefee1 11/7 bryellow 241 #fefee1
 " base0      #599bb6 12/6 brblue   244 #599bb6
