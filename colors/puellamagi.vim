@@ -3,7 +3,7 @@
 " URL:      http://dysnomian.github.io/puellamagi
 "           (see this url for latest release & screenshots)
 " License:  OSI approved MIT license (see end of this file)
-" Created:  In the middle of the night
+" Created:  Mostly
 " Modified: 2016 Aug 13
 "
 " Usage "{{{
@@ -11,7 +11,7 @@
 " ---------------------------------------------------------------------
 " ABOUT:
 " ---------------------------------------------------------------------
-" Puella Magi is a dual mode color scheme inspired by PuellaMagi, Molokai,
+" Puella Magi is a dual mode color scheme inspired by Solarized, Molokai,
 " Fairyfloss, and MadoHomu.
 "
 " See the homepage above for screenshots and details.
@@ -103,7 +103,7 @@ hi Underlined      guifg=#808080               gui=underline
 
 hi VertSplit       guifg=#808080 guibg=#080808 gui=bold
 hi VisualNOS                     guibg=#c985c7
-hi Visual                        guibg=#c985c7
+hi Visual                        guibg=#6f3f57
 hi WarningMsg      guifg=#FFFFFF guibg=#333333 gui=bold
 hi WildMenu        guifg=#72cce2 guibg=#3c2c38
 
